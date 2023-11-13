@@ -1,7 +1,5 @@
 # nadekOSengoku
 
-# nadekOSengoku
-
 ## Overview
 
 This project is a small, yet fully functional operating system kernel designed to support multithreading with time sharing.
